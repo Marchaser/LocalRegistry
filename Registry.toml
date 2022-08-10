@@ -1,0 +1,6 @@
+name = "default_registry"
+uuid = "959a66c5-bb29-4f2a-971a-bfe6a3ec51db"
+repo = "https://github.com/Marchaser/LocalRegistry"
+description = "My private registry"
+
+[packages]
