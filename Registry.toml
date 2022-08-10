@@ -4,3 +4,4 @@ repo = "https://github.com/Marchaser/LocalRegistry"
 description = "My private registry"
 
 [packages]
+774e5fed-2ff0-4510-9b43-b9e61d55845f = { name = "NumericalRecipe", path = "N/NumericalRecipe" }
