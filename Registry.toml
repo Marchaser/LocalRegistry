@@ -5,3 +5,4 @@ description = "My private registry"
 
 [packages]
 774e5fed-2ff0-4510-9b43-b9e61d55845f = { name = "NumericalRecipe", path = "N/NumericalRecipe" }
+afe1064b-ec38-4da5-884a-4fdc6836ef55 = { name = "CoDoSol", path = "C/CoDoSol" }
