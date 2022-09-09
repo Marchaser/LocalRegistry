@@ -4,6 +4,7 @@ repo = "https://github.com/Marchaser/LocalRegistry"
 description = "My private registry"
 
 [packages]
+3c8654f2-9c4d-4b4c-8944-629952487473 = { name = "SortedGroupreduce", path = "S/SortedGroupreduce" }
 774e5fed-2ff0-4510-9b43-b9e61d55845f = { name = "NumericalRecipe", path = "N/NumericalRecipe" }
 afe1064b-ec38-4da5-884a-4fdc6836ef55 = { name = "CoDoSol", path = "C/CoDoSol" }
 b5823431-4c29-464e-b7c9-1b95737d3e8d = { name = "VectorSplines", path = "V/VectorSplines" }
